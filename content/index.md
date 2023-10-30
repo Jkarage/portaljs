@@ -1,7 +1,5 @@
-# My Awesome Dataset
+# Welcome to my data portal!
 
-Built with PortalJS 
+List of available datasets:
 
-## Table 
-
-<Table url="data.csv" />
+<Catalog datasets={datasets} facets={['group']} />
